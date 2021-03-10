@@ -16,6 +16,10 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m M Miller D
-- 🌱 started sharing my ideas at millerdantas.com
+- 🌱 started sharing my ideas at https://millerdantas.com
 - 🤔 I’m on Twitter https://twitter.com/millerscout
+
 ![Miller's github stats](https://github-readme-stats.vercel.app/api?username=millerscout&show_icons=true)
+
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=millerscout&hide=scss&layout=compact)
+
