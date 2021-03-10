@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m M Miller D
+- 🌱 started sharing my ideas at millerdantas.com
+- 🤔 I’m on Twitter https://twitter.com/millerscout
+![Miller's github stats](https://github-readme-stats.vercel.app/api?username=millerscout&show_icons=true)
