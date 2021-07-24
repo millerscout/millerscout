@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m M Miller D
+- 👁️‍🗨️ Love talking about performance tuning
 - 🌱 started sharing my ideas at https://millerdantas.com
 - 🤔 I’m on Twitter https://twitter.com/millerscout
+- ❤️ Creator of Economy mod for Stardew Valley
+- 👁️‍ [My linkedin](https://www.linkedin.com/in/millerscout/)
+- 📫 You may reach me by email: amarcosju@gmail.com
 
 ![Miller's github stats](https://github-readme-stats.vercel.app/api?username=millerscout&show_icons=true)
 
