@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🤔 I’m on Twitter https://twitter.com/millerscout
 - ❤️ Creator of Economy mod for Stardew Valley
 - 👁️‍ [My linkedin](https://www.linkedin.com/in/millerscout/)
-- 📫 You may reach me by email: amarcosju@gmail.com
+- 📫 You may reach me by email: miller.dantas@outlook.com
 
 ![Miller's github stats](https://github-readme-stats.vercel.app/api?username=millerscout&show_icons=true)
 
