@@ -27,3 +27,10 @@ Here are some ideas to get you started:
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=millerscout&hide=scss&layout=compact)
 
+# Donation
+
+<p align="center">
+        <a href ="https://www.buymeacoffee.com/MMillerD">
+         <img src="https://github.com/millerscout/Kenshi-Mod-Manager/raw/master/Donation.png" alt="Buy me a coffee" style="max-width:100%;height: 50px">
+     </a>
+</p>
