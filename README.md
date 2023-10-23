@@ -19,11 +19,14 @@ Here are some ideas to get you started:
 - 👁️‍🗨️ Love talking about performance tuning
 - 🌱 started sharing my ideas at https://millerdantas.com
 - 🤔 I’m on Twitter https://twitter.com/millerscout
-- ❤️ Creator of
-        -  Economy mod for Stardew Valley
-        -  KMM (kenshi mod manager)
-        -  Experience for Buildings for factorio
--  been pushing fixes for other mods as well  
+- ❤️ Creator of: 
+
+-  [Economy mod for Stardew Valley](https://www.nexusmods.com/stardewvalley/mods/6955)
+-  [KMM (kenshi mod manager)](https://github.com/millerscout/Kenshi-Mod-Manager)
+- [ Experience for Buildings for factorio](https://mods.factorio.com/mod/xp-for-buildings)
+-  been pushing fixes for other mods as well 
+
+   
 - 👁️‍ [My linkedin](https://www.linkedin.com/in/millerscout/)
 - 📫 You may reach me by email: miller.dantas@outlook.com
 - ⚡ Can't work without music :x
